@@ -1,0 +1,51 @@
+[Tuto.com] Apprendre à coder proprement en PHP [2017] [mp4]
+
+http://i65.tinypic.com/2ivcmzm.jpg
+
+https://fr.tuto.com/php/apprendre-a-coder-proprement-en-php-php,77501.html
+
+
+Tuto Apprendre à coder proprement en PHP
+
+Dans cette formation PHP, vous allez apprendre à améliorer la qualité et la lisibilité de votre code.
+Pour parvenir à nos fins, nous allons respecter les différentes recommandations du PHP-FIG, 
+un groupe de développeurs PHP mondialement connus pour les projets auxquels ils ont participé (Symfony, Drupal ...). 
+Le but du PHP-FIG est de normaliser l'utilisation de PHP en utilisant des règles communes de programmation 
+(espace dans le code, conventions de nommages, configuration de notre éditeur de texte, autoloading ...) 
+qui sont aujourd'hui appliquées par tous les frameworks et composants PHP modernes comme Symfony ou encore Laravel.
+
+Au programme de cette formation coder plus proprement en PHP
+Application des recommandations du PHP-FIG pour améliorer notre code 
+(Un fichier fournit dans les sources de la formation vous permettra d'effectuer les modifications 
+en même temps que moi pour passer d'un code qui contient tout ce qu'il ne faut pas faire à un code propre et lisible)
+Apprentissage de l'autoloading avec Composer (Création d'un fichier qui va charger automatiquement 
+les différentes entités dont votre script a besoin) en respectant les recommandations du PHP-FIG
+Gestion des logs de votre application PHP avec un composant PHP moderne qui respecte les recommandation du PHP-FIG (Monolog)
+Cette formation s'adresse à tous les niveaux de développeurs et si jamais vous avez des questions à me poser, 
+n'hésitez pas à me faire signe dans l'espace d'entraide de la formation. 
+Je vous recommande si vous êtes débutant de suivre ma formation apprendre à coder en PHP.
+
+
+01. Structurer son code
+ Introduction 05m14s
+ Améliorer son code 1/2 (PSR-1) 10m27s
+ Améliorer son code 2/2 (PSR-2) 18m30s
+ Séparer les entités de votre application 05m06s
+ 
+02. Logging et autoloading 
+ L'autoloading (PSR-4) (en lecture) 09m07s
+ Le logging (PSR-3) 07m35s
+ Et après? 01m56s
+ Conclusion 00m34s
+
+ 
+  
+
+Publié le 15/01/2017
+Fichiers sources inclus (108Ko)
+
+Format : mp4 | Video: AVC 96,1 kb/s 1920x1048 | Audio: AAC 256 kb/s 44,1KHz 2ch
+DurΘe : 58m29m
+Langues : Français
+Nombre de fichiers : 23 (8 Fichiers videos, + 14 Fichier Sources, + 1 Fichier .nfo)
+Poid total : 110Mo
